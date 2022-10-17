@@ -1,0 +1,61 @@
+Practical=11
+Roll No=76
+Name =Devayani Lakshman Patil
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>practical11</title>
+    <style>
+        div{
+            text-align: center;
+            color: blue;
+            background-color: bisque;
+            font-size: 30px;
+            margin-top: 40px;
+            margin-left: 200px;
+            margin-right: 200px;
+            border:2px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h2 style="text-align:center;color:aquamarine;background-color:blueviolet">
+        Myself Devayani <br>
+        You may connect to me through below links
+    </h2>
+    <!-- 1st div starts -->
+    <div>
+        <a href="https://www.linkedin.com/in/devyani-patil-ba374a250">
+            LinkedIn
+        </a>  
+    </div>
+    <!-- 1st div ends -->
+
+    <!-- 2nd div starts -->
+    <div>
+        <a href="https://github.com/devyanipatil21">
+            Github
+        </a>
+    </div>
+    <!-- 2nd div ends -->
+    
+    <!-- 3rd div starts -->
+    <div>
+        <a href="devyanipatil.2103@gmail.com">
+            Email
+        </a> 
+    </div>
+    <!-- 3rd  div ends -->
+    
+    <!-- 4th div starts -->
+    <div>
+        <a href="target.html">
+            Wanna know more,click here
+        </a>
+    </div>
+    <!-- 4th div ends -->
+</body>
+</html> 
+  
